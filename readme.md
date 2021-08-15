@@ -6,20 +6,16 @@
 ## Зависимости:
 
 Разработка Api и валидации форм на заголовки к запросам и ответам:
-
 -   [Express](https://www.npmjs.com/package/express)
 -   [Express-validator](https://www.npmjs.com/package/express-validator)
 
 Cors:
-
 -   [Cors](https://www.npmjs.com/package/cors)
-
+-   
 БД:
-
 -   [pg](https://www.npmjs.com/package/pg)
-
+-   
 JWT-токен, хеширование паролей и генерация uid:
-
 -   [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 -   [bcrypt](https://www.npmjs.com/package/bcrypt)
 -   [uuid](https://www.npmjs.com/package/uuid)
