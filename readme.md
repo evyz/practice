@@ -11,10 +11,10 @@
 
 Cors:
 -   [Cors](https://www.npmjs.com/package/cors)
--   
+ 
 БД:
 -   [pg](https://www.npmjs.com/package/pg)
--   
+  
 JWT-токен, хеширование паролей и генерация uid:
 -   [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 -   [bcrypt](https://www.npmjs.com/package/bcrypt)
