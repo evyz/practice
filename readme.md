@@ -15,6 +15,8 @@ Cors:
  
 БД:
 -   [pg](https://www.npmjs.com/package/pg)
+-   [db-migrate](https://www.npmjs.com/package/db-migrate)
+-   [db-migrate-pg](https://www.npmjs.com/package/db-migrate-pg)
   
 JWT-токен, хеширование паролей и генерация uid:
 -   [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
